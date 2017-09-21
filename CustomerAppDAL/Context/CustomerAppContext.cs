@@ -18,7 +18,7 @@ namespace CustomerAppDAL.Context
         {
             if(!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("");
+                optionsBuilder.UseSqlServer();
             }
         }
 
