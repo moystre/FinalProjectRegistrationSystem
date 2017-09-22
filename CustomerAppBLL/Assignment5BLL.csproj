@@ -1,12 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CustomerAppBLL\CustomerAppBLL.csproj" />
+    <ProjectReference Include="..\CustomerAppDAL\Assignment5DAL.csproj" />
   </ItemGroup>
 
 </Project>

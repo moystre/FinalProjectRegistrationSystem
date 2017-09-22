@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerAppUI", "CustomerAppUI\CustomerAppUI.csproj", "{245391C2-3BB9-4326-A193-9C927957A96E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment5UI", "CustomerAppUI\Assignment5UI.csproj", "{245391C2-3BB9-4326-A193-9C927957A96E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerAppBLL", "CustomerAppBLL\CustomerAppBLL.csproj", "{F6809A17-298D-4E08-A36E-5159C8CB5CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment5BLL", "CustomerAppBLL\Assignment5BLL.csproj", "{F6809A17-298D-4E08-A36E-5159C8CB5CC7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerAppDAL", "CustomerAppDAL\CustomerAppDAL.csproj", "{1C4B30B2-7970-47EE-9C5A-1A7B7A3200E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment5DAL", "CustomerAppDAL\Assignment5DAL.csproj", "{1C4B30B2-7970-47EE-9C5A-1A7B7A3200E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerRestAPI", "CustomerRestAPI\CustomerRestAPI.csproj", "{090BD694-C8AB-4DDF-B298-A4B974E88083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment5RestAPI", "CustomerRestAPI\Assignment5RestAPI.csproj", "{090BD694-C8AB-4DDF-B298-A4B974E88083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
